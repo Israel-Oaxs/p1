@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Oaxs Ip</string>
+    <string name="Aha">Write the Ip Address</string>
+    <string name="editT">example :192.125.15.0/23</string>
+    <string name="button">Ok</string>
+    <string name="text1a1">Modelos de red\nCalculadora Ip</string>
+    <string name="text2a1">Israel Oaxaca Figueroa\n\tRaul Millan Ruiz</string>
+    <string name="title_activity_main3">Main3Activity</string>
+</resources>
